@@ -1,5 +1,7 @@
 # WWDC20 Swift Student Challenge submission
 
+![Cover](Contents/PublicResources/EMNIST-Writing-icon.jpg)
+
 ## About the playground
 
 The idea behind this playground is to help people who are experiencing problems with writing. This mainly concerns children in primary school or people like my father. He, like many others, suffers from multiple sclerosis, an autoimmune disease. Above all he has immense difficulties with writing.
