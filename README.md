@@ -1,6 +1,6 @@
 # WWDC20 Swift Student Challenge submission
 
-![Cover](Contents/PublicResources/EMNIST-Writing-icon.jpg)
+![Cover](https://github.com/benjaminhtr/WWDC20/blob/master/Contents/PublicResources/EMNIST-Writing-icon-2.jpg)
 
 ## About the playground
 
